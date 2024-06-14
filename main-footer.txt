@@ -1,0 +1,119 @@
+<div id="main-footer" class="main-footer">
+<!-- Right Menu -->
+<!-- End Right Menu -->
+<div class="container">
+<!-- 1/4 -->
+<div class="four columns footer1">
+<div id="custom_html-2">
+<h2>About Indian Karting</h2>
+<div class="textwidget custom-html-widget">
+<p>
+IKC is an intercollegiate engineering design competition for undergraduate and graduate engineering
+students.
+</p>
+<div class="shrewd_solution_icon">
+<ul>
+<li><a href="https://www.facebook.com/officialikc"><em class="fa fa-facebook"><strong></strong></em></a>
+</li>
+
+<li><a href="https://www.instagram.com/indiankarting_ikc/"><em
+class="fa fa-instagram"><strong></strong></em></a>
+</li>
+<li><a target="_blank" href="https://youtube.com/c/SPAARKINDIA" rel="noopener"><i
+class="fa fa-youtube"></i>
+</a></li>
+</ul><a target="_blank" href="https://youtube.com/c/SPAARKINDIA" rel="noopener">
+</a>
+</div>
+</div>
+</div><a target="_blank" href="https://youtube.com/c/SPAARKINDIA" rel="noopener"> </a>
+</div><a target="_blank" href="https://youtube.com/c/SPAARKINDIA" rel="noopener">
+<!-- /End 1/4 -->
+<!-- 2/4 -->
+</a>
+<div class="four columns footer2"><a target="_blank" href="https://youtube.com/c/SPAARKINDIA" rel="noopener">
+</a>
+<div id="nav_menu-2"><a target="_blank" href="https://youtube.com/c/SPAARKINDIA" rel="noopener">
+<h2>Quick Links</h2>
+</a>
+<div class="menu-bottom-menu-container"><a target="_blank" href="https://youtube.com/c/SPAARKINDIA"
+rel="noopener"></a>
+<ul id="menu-bottom-menu" class="menu"><a target="_blank" href="https://youtube.com/c/SPAARKINDIA"
+rel="noopener"></a>
+<li id="menu-item-284"
+class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-284">
+<a target="_blank" href="https://youtube.com/c/SPAARKINDIA" rel="noopener"></a><a
+href="https://indkc.com/" aria-current="page">Home</a></li>
+<li id="menu-item-285" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-285"><a
+href="https://indkc.com/about/">About Us</a></li>
+<li id="menu-item-289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-289"><a
+href="https://indkc.com/contact/">Contact Us</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- /End 2/4 -->
+<!-- 3/4 -->
+<div class="four columns footer3">
+
+<div id="recent-posts-3">
+<h2>Recent Posts</h2>
+<ul>
+<li>
+<a href="https://indkc.com/city-tops-chelsea-in-community-shield/">Nexus Motorsport</a>
+</li>
+<li>
+<a href="https://indkc.com/united-we-stand-united-we-write/">Indian Karting championship</a>
+</li>
+</ul>
+
+</div>
+</div>
+<!-- /End 3/4 -->
+<!-- 4/4 -->
+<div class="four columns footer4">
+<div id="media_gallery-2">
+<h2>My Gallery</h2>
+<div id="gallery-1" class="gallery galleryid-2074 gallery-columns-2 gallery-size-full">
+<figure class="gallery-item">
+<div class="gallery-icon landscape">
+<img width="1080" height="1080"
+src="https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_625-1.jpg"
+class="attachment-full size-full" alt="" decoding="async" loading="lazy"
+srcset="https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_625-1.jpg 1080w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_625-1-500x500.jpg 500w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_625-1-1024x1024.jpg 1024w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_625-1-750x750.jpg 750w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_625-1-768x768.jpg 768w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_625-1-300x300.jpg 300w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_625-1-600x600.jpg 600w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_625-1-100x100.jpg 100w"
+sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px">
+</div>
+</figure>
+<figure class="gallery-item">
+<div class="gallery-icon landscape">
+<img width="1080" height="1080"
+src="https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_626-1.jpg"
+class="attachment-full size-full" alt="" decoding="async" loading="lazy"
+srcset="https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_626-1.jpg 1080w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_626-1-500x500.jpg 500w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_626-1-1024x1024.jpg 1024w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_626-1-750x750.jpg 750w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_626-1-768x768.jpg 768w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_626-1-300x300.jpg 300w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_626-1-600x600.jpg 600w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_626-1-100x100.jpg 100w"
+sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px">
+</div>
+</figure>
+<figure class="gallery-item">
+<div class="gallery-icon landscape">
+<img width="1080" height="1080"
+src="https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_654-1.jpg"
+class="attachment-full size-full" alt="" decoding="async" loading="lazy"
+srcset="https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_654-1.jpg 1080w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_654-1-500x500.jpg 500w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_654-1-1024x1024.jpg 1024w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_654-1-750x750.jpg 750w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_654-1-768x768.jpg 768w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_654-1-300x300.jpg 300w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_654-1-600x600.jpg 600w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_654-1-100x100.jpg 100w"
+sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px">
+</div>
+</figure>
+<figure class="gallery-item">
+<div class="gallery-icon landscape">
+<img width="960" height="960"
+src="https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_655-1.jpg"
+class="attachment-full size-full" alt="" decoding="async" loading="lazy"
+srcset="https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_655-1.jpg 960w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_655-1-500x500.jpg 500w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_655-1-750x750.jpg 750w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_655-1-768x768.jpg 768w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_655-1-300x300.jpg 300w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_655-1-600x600.jpg 600w, https://indkc.com/wp-content/uploads/2021/12/IMG_20180304_184838_655-1-100x100.jpg 100w"
+sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px">
+</div>
+</figure>
+</div>
+</div>
+</div>
+<!-- /End 4/4 -->
+</div> <!-- /End container -->
+</div>

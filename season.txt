@@ -1,0 +1,340 @@
+<section
+class="elementor-section elementor-top-section elementor-element elementor-element-e8d4372 elementor-section-stretched lt-about elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+data-id="e8d4372" data-element_type="section" id="lt-about"
+data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 831px; left: 0px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8047b10"
+data-id="8047b10" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-a692050 elementor-widget elementor-widget-image"
+data-id="a692050" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img decoding="async" width="500" height="676"
+src="https://indkc.com/wp-content/uploads/2021/12/ab.jpg" class="attachment-large size-large"
+alt=""
+srcset="https://indkc.com/wp-content/uploads/2021/12/ab.jpg 500w, https://indkc.com/wp-content/uploads/2021/12/ab-370x500.jpg 370w"
+sizes="(max-width: 500px) 85vw, 500px"> </div>
+</div>
+</div>
+<div class="elementor-element elementor-element-5847c5f elementor-widget elementor-widget-image"
+data-id="5847c5f" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img decoding="async" width="576" height="592"
+src="https://indkc.com/wp-content/uploads/2021/12/pos-1.jpg" class="attachment-large size-large"
+alt=""
+srcset="https://indkc.com/wp-content/uploads/2021/12/pos-1.jpg 576w, https://indkc.com/wp-content/uploads/2021/12/pos-1-486x500.jpg 486w"
+sizes="(max-width: 576px) 85vw, 576px"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div
+class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4c9dd24 lt-about-year"
+data-id="4c9dd24" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-29e7728 elementor-widget elementor-widget-heading"
+data-id="29e7728" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a
+href="https://indkc.com/season-1/">2017</a></h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-6b1ce2b elementor-widget elementor-widget-heading"
+data-id="6b1ce2b" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a
+href="https://indkc.com/season-2/">2018</a></h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-e38a49d elementor-widget elementor-widget-heading"
+data-id="e38a49d" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a
+href="https://indkc.com/season-3/">2019</a></h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-cc0ee12 elementor-widget elementor-widget-heading"
+data-id="cc0ee12" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a
+href="https://indkc.com/season-4/">2020</a></h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-66a70b6 elementor-widget elementor-widget-heading"
+data-id="66a70b6" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a
+href="https://indkc.com/season-5/">2023</a></h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-93a426a elementor-widget elementor-widget-heading"
+data-id="93a426a" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a
+href="https://indkc.com/season-5/">2024</a></h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div
+class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4a15eb0 lt-about-item"
+data-id="4a15eb0" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-cb323ff elementor-widget elementor-widget-heading"
+data-id="cb323ff" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Season 1</h3>
+</div>
+</div>
+<div
+class="elementor-element elementor-element-7d030e5 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+data-id="7d030e5" data-element_type="widget" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">65 TEAMS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">14 AWARDS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">3 LAC CASH PRIZE</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">1400+ PARTICIPANTS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">VENUE - PUNE</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-eb7d5db elementor-widget elementor-widget-heading"
+data-id="eb7d5db" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Season 2</h3>
+</div>
+</div>
+<div
+class="elementor-element elementor-element-d1d4d01 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+data-id="d1d4d01" data-element_type="widget" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">87 TEAMS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">25 AWARDS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">12 LAC CASH PRIZE</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">1800+ PARTICIPANTS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">VENUE – KOLHAPU</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-9237c1e elementor-widget elementor-widget-heading"
+data-id="9237c1e" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Season 3</h3>
+</div>
+</div>
+<div
+class="elementor-element elementor-element-b70911c elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+data-id="b70911c" data-element_type="widget" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">95 TEAMS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">30 AWARDS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">12 LAC CASH PRIZE</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">1900+ PARTICIPANTS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">VENUE - KOLHAPUR</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-1be6f9a elementor-widget elementor-widget-heading"
+data-id="1be6f9a" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Season 4</h3>
+</div>
+</div>
+<div
+class="elementor-element elementor-element-23516b1 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+data-id="23516b1" data-element_type="widget" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">62 TEAMS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">20 AWARDS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">5 LAC CASH PRIZE</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">900+ PARTICIPANTS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">VENUE - KOLHAPUR</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-2453f33 elementor-widget elementor-widget-heading"
+data-id="2453f33" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Season 5</h3>
+</div>
+</div>
+<div
+class="elementor-element elementor-element-c1f82cc elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+data-id="c1f82cc" data-element_type="widget" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">65 TEAMS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">32 AWARDS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">6.5 LAC CASH PRIZE</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">1000+ PARTICIPANTS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">4 STUDENTS PLACED</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-987141c elementor-widget elementor-widget-heading"
+data-id="987141c" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Season 6</h3>
+</div>
+</div>
+<div
+class="elementor-element elementor-element-2282f94 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+data-id="2282f94" data-element_type="widget" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">125CC / 150CC / ELECTRIC CATEGORY</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">OPEN CATEGORY</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">CASH PRIZE UPTO 6.5 LAKHS</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">40+ AWARD CATEGORIES</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">Mylaps Transponders for timing on Mobile</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">MEDIA COVERAGE</span>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-dot-circle"></i> </span>
+<span class="elementor-icon-list-text">DJ NIGHT</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
